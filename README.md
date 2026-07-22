@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0078-subsets](https://github.com/JUST-ABHINAV/leetcode/tree/master/0078-subsets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JUST-ABHINAV/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JUST-ABHINAV/leetcode/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/JUST-ABHINAV/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/JUST-ABHINAV/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
