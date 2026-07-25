@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/JUST-ABHINAV/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JUST-ABHINAV/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/JUST-ABHINAV/leetcode/tree/master/0050-powx-n) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/JUST-ABHINAV/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
