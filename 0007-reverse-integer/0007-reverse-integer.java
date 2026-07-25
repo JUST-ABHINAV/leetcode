@@ -7,7 +7,7 @@ class Solution {
             rev=rev*10+digit;
             n=n/10;
         }
-        
+        System.gc();
         if (rev<Integer.MIN_VALUE || rev>Integer.MAX_VALUE)return 0;
         return (int)rev;
     }
