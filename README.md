@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/JUST-ABHINAV/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JUST-ABHINAV/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JUST-ABHINAV/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JUST-ABHINAV/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JUST-ABHINAV/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
