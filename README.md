@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/JUST-ABHINAV/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/JUST-ABHINAV/leetcode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/JUST-ABHINAV/leetcode/tree/master/0051-n-queens) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/JUST-ABHINAV/leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/JUST-ABHINAV/leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JUST-ABHINAV/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/JUST-ABHINAV/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JUST-ABHINAV/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
