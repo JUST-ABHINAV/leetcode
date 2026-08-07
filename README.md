@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/JUST-ABHINAV/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -131,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JUST-ABHINAV/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
