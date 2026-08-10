@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/JUST-ABHINAV/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JUST-ABHINAV/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/JUST-ABHINAV/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JUST-ABHINAV/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/JUST-ABHINAV/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/JUST-ABHINAV/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/JUST-ABHINAV/leetcode/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
