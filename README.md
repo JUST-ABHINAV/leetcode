@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/JUST-ABHINAV/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/JUST-ABHINAV/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/JUST-ABHINAV/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/JUST-ABHINAV/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JUST-ABHINAV/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/JUST-ABHINAV/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/JUST-ABHINAV/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JUST-ABHINAV/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JUST-ABHINAV/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/JUST-ABHINAV/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
