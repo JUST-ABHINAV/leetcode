@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/JUST-ABHINAV/leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JUST-ABHINAV/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/JUST-ABHINAV/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JUST-ABHINAV/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JUST-ABHINAV/leetcode/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/JUST-ABHINAV/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/JUST-ABHINAV/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JUST-ABHINAV/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2390-removing-stars-from-a-string](https://github.com/JUST-ABHINAV/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JUST-ABHINAV/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/JUST-ABHINAV/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
