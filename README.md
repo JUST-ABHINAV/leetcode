@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JUST-ABHINAV/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/JUST-ABHINAV/leetcode/tree/master/0682-baseball-game) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0904-fruit-into-baskets](https://github.com/JUST-ABHINAV/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JUST-ABHINAV/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/JUST-ABHINAV/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JUST-ABHINAV/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/JUST-ABHINAV/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/JUST-ABHINAV/leetcode/tree/master/3731-find-missing-elements) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/JUST-ABHINAV/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/JUST-ABHINAV/leetcode/tree/master/0682-baseball-game) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JUST-ABHINAV/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JUST-ABHINAV/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2390-removing-stars-from-a-string](https://github.com/JUST-ABHINAV/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JUST-ABHINAV/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Quicksort
 |  |
@@ -210,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/JUST-ABHINAV/leetcode/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 <!---LeetCode Topics End-->
