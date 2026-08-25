@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JUST-ABHINAV/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JUST-ABHINAV/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JUST-ABHINAV/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/JUST-ABHINAV/leetcode/tree/master/0682-baseball-game) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JUST-ABHINAV/leetcode/tree/master/0035-search-insert-position) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JUST-ABHINAV/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Heap (Priority Queue)
 |  |
