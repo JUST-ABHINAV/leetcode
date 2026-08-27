@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/JUST-ABHINAV/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/JUST-ABHINAV/leetcode/tree/master/0682-baseball-game) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -187,14 +188,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
