@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/JUST-ABHINAV/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/JUST-ABHINAV/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JUST-ABHINAV/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1768-merge-strings-alternately](https://github.com/JUST-ABHINAV/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JUST-ABHINAV/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/JUST-ABHINAV/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JUST-ABHINAV/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/JUST-ABHINAV/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1768-merge-strings-alternately](https://github.com/JUST-ABHINAV/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/JUST-ABHINAV/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JUST-ABHINAV/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
