@@ -194,17 +194,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/JUST-ABHINAV/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/JUST-ABHINAV/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/JUST-ABHINAV/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/JUST-ABHINAV/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Linked List
 |  |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JUST-ABHINAV/leetcode/tree/master/0169-majority-element) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/JUST-ABHINAV/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
