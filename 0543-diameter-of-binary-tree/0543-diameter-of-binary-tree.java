@@ -14,10 +14,8 @@ class Solution {
         int left = height(root.left);
         int right = height(root.right);
 
-        // Diameter passing through this node
         max = Math.max(max, left + right);
 
-        // Return height
         return Math.max(left, right) + 1;
     }
 }
