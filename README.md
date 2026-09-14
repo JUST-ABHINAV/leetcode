@@ -292,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/JUST-ABHINAV/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/JUST-ABHINAV/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
