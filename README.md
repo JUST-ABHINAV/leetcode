@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/JUST-ABHINAV/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/JUST-ABHINAV/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JUST-ABHINAV/leetcode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/JUST-ABHINAV/leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/JUST-ABHINAV/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/JUST-ABHINAV/leetcode/tree/master/0056-merge-intervals) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/JUST-ABHINAV/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JUST-ABHINAV/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/JUST-ABHINAV/leetcode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JUST-ABHINAV/leetcode/tree/master/0125-valid-palindrome) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JUST-ABHINAV/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/JUST-ABHINAV/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JUST-ABHINAV/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JUST-ABHINAV/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/JUST-ABHINAV/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JUST-ABHINAV/leetcode/tree/master/0042-trapping-rain-water) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JUST-ABHINAV/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Quicksort
