@@ -4,7 +4,7 @@ class Solution {
         int sum=0;
         for (int i=0;i<n;i++){
             if (n%(i+1)==0){
-                System.out.println(nums[i]+" "+i);
+                // System.out.println(nums[i]+" "+i);
                 sum+=nums[i]*nums[i];
             }
         }
