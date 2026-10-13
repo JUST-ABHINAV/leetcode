@@ -3,11 +3,10 @@ class Solution {
         long[] sq = new long[nums.length];
 
         for (int i = 0; i < nums.length; i++) {
-            sq[i] = 1L * nums[i] * nums[i];
+            sq[i] = nums[i] * nums[i];
         }
 
         Arrays.sort(sq);
-
         long ans = 0;
         int n = nums.length;
 
