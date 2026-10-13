@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/JUST-ABHINAV/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JUST-ABHINAV/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JUST-ABHINAV/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/JUST-ABHINAV/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/JUST-ABHINAV/leetcode/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/JUST-ABHINAV/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/JUST-ABHINAV/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/JUST-ABHINAV/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/JUST-ABHINAV/leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/JUST-ABHINAV/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/JUST-ABHINAV/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
