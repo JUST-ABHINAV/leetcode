@@ -5,8 +5,8 @@ class Solution {
         int left=0;
         int right=left+n;
         while(right<=haystack.length()){
-            String nm=haystack.substring(left,right);
-            if (nm.equals(needle))return left;
+            // String nm=haystack.substring(left,right);
+            if (needle.equals(haystack.substring(left,right)))return left;
             left++;right++;
         }
         return -1;
