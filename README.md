@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/JUST-ABHINAV/leetcode/tree/master/0682-baseball-game) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0904-fruit-into-baskets](https://github.com/JUST-ABHINAV/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/JUST-ABHINAV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/JUST-ABHINAV/leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/JUST-ABHINAV/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JUST-ABHINAV/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/JUST-ABHINAV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/JUST-ABHINAV/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JUST-ABHINAV/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/JUST-ABHINAV/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JUST-ABHINAV/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/JUST-ABHINAV/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/JUST-ABHINAV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JUST-ABHINAV/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JUST-ABHINAV/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/JUST-ABHINAV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/JUST-ABHINAV/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JUST-ABHINAV/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/JUST-ABHINAV/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/JUST-ABHINAV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
 |  |
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/JUST-ABHINAV/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/JUST-ABHINAV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -400,4 +406,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/JUST-ABHINAV/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/JUST-ABHINAV/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/JUST-ABHINAV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
