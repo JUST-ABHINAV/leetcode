@@ -6,9 +6,6 @@ class Solution {
             sum+=i;
             if(i>max)max=i;
             }
-        // for(int i:nums){
-        //     sum+=max-i;
-        // }    
         return max*nums.length-sum;
     }
 }
