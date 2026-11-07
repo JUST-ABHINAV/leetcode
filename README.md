@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JUST-ABHINAV/leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1672-richest-customer-wealth](https://github.com/JUST-ABHINAV/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1882-process-tasks-using-servers](https://github.com/JUST-ABHINAV/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2073-time-needed-to-buy-tickets](https://github.com/JUST-ABHINAV/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JUST-ABHINAV/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JUST-ABHINAV/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/JUST-ABHINAV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/JUST-ABHINAV/leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/JUST-ABHINAV/leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Trie
 |  |
 | ------- |
