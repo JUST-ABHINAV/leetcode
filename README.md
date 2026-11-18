@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JUST-ABHINAV/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/JUST-ABHINAV/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/JUST-ABHINAV/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/JUST-ABHINAV/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/JUST-ABHINAV/leetcode/tree/master/0621-task-scheduler) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JUST-ABHINAV/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/JUST-ABHINAV/leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/JUST-ABHINAV/leetcode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/JUST-ABHINAV/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JUST-ABHINAV/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/JUST-ABHINAV/leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/JUST-ABHINAV/leetcode/tree/master/0322-coin-change) |
 ## DP on Trees
 |  |
 | ------- |
@@ -436,4 +439,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/JUST-ABHINAV/leetcode/tree/master/0200-number-of-islands) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/JUST-ABHINAV/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/JUST-ABHINAV/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
