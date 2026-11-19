@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/JUST-ABHINAV/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/JUST-ABHINAV/leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/JUST-ABHINAV/leetcode/tree/master/0202-happy-number) |
+| [0343-integer-break](https://github.com/JUST-ABHINAV/leetcode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/JUST-ABHINAV/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JUST-ABHINAV/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/JUST-ABHINAV/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/JUST-ABHINAV/leetcode/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/JUST-ABHINAV/leetcode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/JUST-ABHINAV/leetcode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
