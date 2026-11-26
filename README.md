@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/JUST-ABHINAV/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/JUST-ABHINAV/leetcode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/JUST-ABHINAV/leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/JUST-ABHINAV/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/JUST-ABHINAV/leetcode/tree/master/0088-merge-sorted-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JUST-ABHINAV/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JUST-ABHINAV/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/JUST-ABHINAV/leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JUST-ABHINAV/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JUST-ABHINAV/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/JUST-ABHINAV/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/JUST-ABHINAV/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JUST-ABHINAV/leetcode/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/JUST-ABHINAV/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/JUST-ABHINAV/leetcode/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/JUST-ABHINAV/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Stack
